@@ -3,6 +3,8 @@
 
 ## Tools
 
+[NotFair](https://github.com/nowork-studio/NotFair) Open-source Claude Code skills for SEO, GEO, and paid ads, with Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP servers for live data.
+
 [VoiceForms](https://voiceforms.anvevoice.app) AI voice forms for marketers. Collect feedback, surveys, and reviews with voice.
 
 ## Contributing
